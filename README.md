@@ -1,4 +1,4 @@
-# instagram
+# streamBuilder practice
 
 A new Flutter project.
 
